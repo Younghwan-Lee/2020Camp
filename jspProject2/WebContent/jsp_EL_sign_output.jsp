@@ -15,7 +15,7 @@
 <p>관심 사항: </p>
 <p><%=String.join(", ", request.getParameterValues("interest")) %></p>
 <p>핸드폰: ${member.hp_1} : ${member.hp_2}</p>
-<p>자기소개</p>
+<p>자기소개: </p>
 ${member.introduce}
 
 </body>
