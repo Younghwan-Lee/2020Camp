@@ -8,4 +8,4 @@
     + #### Result Images
      <img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/jspProject4/WebContent/FileLoad/index.PNG" align="left" height="200"        width="233" >
      <img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/jspProject4/WebContent/FileLoad/result.PNG" align="left" height="200"        width="188" >
-     <img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/jspProject4/WebContent/FileLoad/down.PNG" align="left" height="200"        width="413" >
+     <img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/jspProject4/WebContent/FileLoad/down.PNG" align="right" height="200"        width="413" >
