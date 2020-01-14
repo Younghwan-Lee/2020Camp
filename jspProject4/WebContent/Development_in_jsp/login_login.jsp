@@ -7,11 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<%@ include file="login_index.jsp" %>
+<div style="width:30%;">
+<h3>Login Form</h3>
 <hr/>
 
-<h3>Login Form</h3>
 <%
 String profile_msg = (String)request.getAttribute("profile_msg");
 if(profile_msg != null) {
@@ -29,5 +28,6 @@ Email:<input type="text" name="email"/><br/><br/>
 Password:<input type="password" name="pass"/><br/><br/>
 <input type="submit" value="login"/>
 </form>
+</div>
 </body>
 </html>

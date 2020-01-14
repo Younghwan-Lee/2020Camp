@@ -12,19 +12,29 @@
 <jsp:useBean id="obj" class="bean.LoginBean"/>
 <jsp:setProperty property="*" name="obj"/>
 
+<div style="width:30%;">
+<h2>Logged In</h2>
+<hr/><br/>
 <%
 boolean status = LoginDao.validate(obj);
 
+
 if(status) {
-	out.println("You are successfully logged in");
+	out.println("You are successfully logged in\n");
 	session.setAttribute("session", "TRUE");
+	String uemail = request.getParameter("email");
+%>
+<br/><br/><a href="login_profile.jsp?uemail=<%=uemail%>">Check Profile</a>
+
+<%
 }
 else {
 	out.println("Sorry, email or password error");
 %>
-<jsp:include page="login_index.jsp"></jsp:include>
+<br/><jsp:include page="login_index.jsp"></jsp:include>
 <%
 }
 %>
+</div>
 </body>
 </html>
