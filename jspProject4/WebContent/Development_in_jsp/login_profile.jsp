@@ -35,7 +35,7 @@ try {
 	<hr/>
 	<p>Name: <%=name%></p>
 	<p>Email: <%=email%></p>
+	<p><a href="login_logout.jsp">logout</a></p>
 </div>
-<p><a href="login_logout.jsp">logout</a></p>
 </body>
 </html>
