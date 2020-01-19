@@ -3,7 +3,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>edit</title>
+	<title>editPage</title>
 </head>
 <body>
 	<h1>Edit Employee</h1>  
