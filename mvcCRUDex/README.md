@@ -1,6 +1,6 @@
 # Spring MVC CRUD Example(MySQL JDBC)
 
-###+ Index Page
+###* Index Page
 <img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/index.PNG" width="300" height="200">
 
 - - -
