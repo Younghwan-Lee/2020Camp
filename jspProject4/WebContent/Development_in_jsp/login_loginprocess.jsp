@@ -14,6 +14,7 @@
 
 <div style="width:30%;">
 <h2>Logged In</h2>
+<p><a href="register_index.jsp">sign in</a></p>
 <hr/><br/>
 <%
 boolean status = LoginDao.validate(obj);

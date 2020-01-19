@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="login_login.jsp">login</a>
+<a href="login_login.jsp">log in</a>
+<a href="register_index.jsp">sign in</a>
 </body>
 </html>

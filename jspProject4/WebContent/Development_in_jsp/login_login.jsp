@@ -9,6 +9,7 @@
 <body>
 <div style="width:30%;">
 <h3>Login Form</h3>
+<p><a href="register_index.jsp">sign in</a></p>
 <hr/>
 
 <%

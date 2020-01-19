@@ -32,6 +32,7 @@ try {
 <div
 >
 	<h2>User Info</h2>
+	<p><a href="register_index.jsp">sign in</a></p>
 	<hr/>
 	<p>Name: <%=name%></p>
 	<p>Email: <%=email%></p>
