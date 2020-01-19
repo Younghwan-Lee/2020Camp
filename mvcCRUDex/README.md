@@ -1,6 +1,6 @@
 # Spring MVC CRUD Example(MySQL JDBC)
 
-### Index Page
+###+ Index Page
 <img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/index.PNG" width="300" height="200">
 
 - - -
@@ -19,11 +19,11 @@
 
 
 ### Edit Data
-<img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/edit_process.PNG" width="300" height="240">
-<img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/edit_result.PNG" width="300" height="240">
+<img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/edit_process.PNG" width="300" height="160">
+<img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/edit_result.PNG" width="300" height="160">
 
 - - -
 
 
 ### Delete Data
-<img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/delete.PNG" width="300" height="240">
+<img src="https://github.com/Younghwan-Lee/2020Camp/blob/master/mvcCRUDex/src/main/webapp/resources/images/delete.PNG" width="300" height="160">
